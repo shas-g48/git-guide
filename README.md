@@ -1,4 +1,4 @@
-# About Git and Github
+# About Git
 
 Git is a distributed version control system. In git, every user has a copy of the whole repository, based on the last time it was synced with the remote repository. This document mainly concentrates on the command line tool git.
 
